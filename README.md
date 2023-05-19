@@ -1,0 +1,1 @@
+# fuel_short_path_first_project_python
