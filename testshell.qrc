@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>menu (2).svg</file>
+    <file>log-out.svg</file>
+    <file>map.svg</file>
+    <file>map-pin.svg</file>
+    <file>clipboard.svg</file>
+    <file>pngwing.com.png</file>
+    <file>lock.svg</file>
+    <file>user.svg</file>
+  </qresource>
+  <qresource prefix="photos">
+    <file>SeekPng.com_shell-logo-png_1409787.png</file>
+    <file>SeekPng.com_shell-logo-png_1409735.png</file>
+    <file>Logo Royal Dutch Shell Filling Station Shell Oil Company Brand PNG - Free Download.jfif</file>
+    <file>shell-logo.svg</file>
+    <file>shell-logo-2.jpg</file>
+    <file>SHELL.jpg</file>
+  </qresource>
+</RCC>
